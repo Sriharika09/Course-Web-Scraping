@@ -102,4 +102,4 @@
 
 <!--contact-->
 [reach_linkedin]:https://github.com/Sriharika09/Course-Web-Scraping
-[reach_gmail]: mailto:https://github.com/Sriharika09/Course-Web-Scraping?subject=Github
+[reach_gmail]: mailto:https://sriharika59@gmail.com 
