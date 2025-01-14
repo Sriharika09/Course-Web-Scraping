@@ -80,8 +80,8 @@
 
 <!-- CONTACT -->
 ## 📌 Contact
-[![Sriharika09 | LinkedIn](https://img.shields.io/badge/paladuguakshaykumar-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![Sriharika09 | G Mail](https://img.shields.io/badge/Akshaypaladugu-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
+[![Sriharika09 | LinkedIn](https://img.shields.io/badge/Sriharika-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
+[![Sriharika09 | G Mail](https://img.shields.io/badge/Sriharika-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
